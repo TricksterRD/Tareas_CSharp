@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\bin\Debug\Practica2_Prog2.exe.config
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\bin\Debug\Practica2_Prog2.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\bin\Debug\Practica2_Prog2.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\obj\Debug\Practica2_Prog2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\obj\Debug\Practica2_Prog2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\obj\Debug\Practica2_Prog2.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica2_Prog2\Practica2_Prog2\obj\Debug\Practica2_Prog2.pdb
