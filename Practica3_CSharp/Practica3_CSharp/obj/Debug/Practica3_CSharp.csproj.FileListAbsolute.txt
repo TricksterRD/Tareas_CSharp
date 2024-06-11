@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\bin\Debug\Practica3_CSharp.exe.config
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\bin\Debug\Practica3_CSharp.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\bin\Debug\Practica3_CSharp.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\obj\Debug\Practica3_CSharp.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\obj\Debug\Practica3_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\obj\Debug\Practica3_CSharp.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Practica3_CSharp\Practica3_CSharp\obj\Debug\Practica3_CSharp.pdb
