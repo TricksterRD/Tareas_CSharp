@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\bin\Debug\Manejo_Excepciones.exe.config
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\bin\Debug\Manejo_Excepciones.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\bin\Debug\Manejo_Excepciones.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\obj\Debug\Manejo_Excepciones.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\obj\Debug\Manejo_Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\obj\Debug\Manejo_Excepciones.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\Manejo_Excepciones\Manejo_Excepciones\obj\Debug\Manejo_Excepciones.pdb
