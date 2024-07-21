@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe.config
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\bin\Debug\TallerLINQ.pdb
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.exe
+C:\Users\User\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Documentos\ITLA\C5\Prog II\TallerLINQ\TallerLINQ\obj\Debug\TallerLINQ.pdb
